@@ -1,0 +1,35 @@
+{
+  "name": "simple-gps",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "node-filelist": "^0.0.1",
+    "jpeg-exif" : "^1.0.0"
+  },
+  "description": "Get a list of the gps and absolute path from the file location. This plugin reading all the files in a file location recursively.",
+  "devDependencies": {},
+  "author": {
+    "email": "tea3gtinfo@gmail.com",
+    "name": "tea3",
+    "url": "https://tea3.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/tea3/simple-gps/issues"
+  },
+  "keywords": [
+    "image",
+    "gps",
+    "path"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tea3gt",
+      "email": "tea3gtinfo@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea3/simple-gps.git"
+  }
+}
